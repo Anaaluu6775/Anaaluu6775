@@ -126,5 +126,20 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 ```bash
 ┌──[ ANA@GITHUB ]─[ ~/objetivos ]
 │
-├─ $ studying --area=data
-│  └─ Python, SQL
+├─ $ learning --path=data
+│  └─ Python, SQL e análise de dados
+│
+├─ $ building --path=frontend
+│  └─ Interfaces web e projetos responsivos
+│
+├─ $ improving --skill=programming
+│  └─ Lógica de programação e resolução de problemas
+│
+├─ $ creating --type=portfolio
+│  └─ Projetos práticos para aplicar conhecimentos
+│
+└─ $ seeking --opportunity=internship
+   └─ Primeira oportunidade na área de tecnologia
+```
+
+**Missão:** transformar aprendizado em projetos reais, desenvolver minhas habilidades e crescer profissionalmente nas áreas de Dados e Desenvolvimento Front-End.
