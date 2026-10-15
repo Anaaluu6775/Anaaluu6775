@@ -54,7 +54,7 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 
 ### Desenvolvimento Web
 
-<img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark" alt="HTML, CSS e Figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark" alt="HTML, CSS e Javascript"/>
 
 ### Dados e bancos de dados
 
@@ -62,7 +62,7 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 
 ### Ferramentas e ambiente de desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code e Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code"/>
 
 </div>
 
@@ -90,21 +90,17 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 <a href="https://github.com/Anaaluu6775/Imersao-dados">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anaaluu6775&repo=Imersao-dados&theme=midnight-purple&hide_border=true&bg_color=0D0D14&title_color=BCA7FF&icon_color=8B5CF6&text_color=E5E7EB" alt="Projeto de Análise de Dados"/>
 </a>
-<a href="https://github.com/Anaaluu6775/teste-front-end">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anaaluu6775&repo=teste-front-end&theme=midnight-purple&hide_border=true&bg_color=0D0D14&title_color=BCA7FF&icon_color=8B5CF6&text_color=E5E7EB" alt="Projeto Front-End — Loja de Celulares"/>
-</a>
 
 </div>
 
 ### `SOBRE OS PROJETOS`
 
 - 📊 **Imersão Dados:** projeto voltado à exploração e análise de dados.
-- 📱 **Loja de Celulares:** projeto de Front-End com foco na criação de uma interface para uma loja de smartphones.
+- 📱 **Site de ONG de animais:** projeto de Front-End com foco na criação de uma interface com o tema de ONG de animais.
 
 <div align="center">
 
 [![Projeto de Dados](https://img.shields.io/badge/VER_PROJETO-DE_DADOS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anaaluu6775/Imersao-dados)
-[![Loja de Celulares](https://img.shields.io/badge/VER_PROJETO-FRONT--END-BCA7FF?style=for-the-badge&logo=github&logoColor=0D0D14)](https://github.com/Anaaluu6775/teste-front-end)
 
 </div>
 ### Outros projetos que quero destacar
@@ -112,12 +108,9 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 📊 Análise de Dados | Exploração e interpretação de dados para encontrar informações relevantes. | Python |
-| 🐾 Projeto de ONG | Protótipo de interface para uma organização de proteção animal. | HTML, CSS e Figma |
-| 🔐 Interfaces de Login | Desenvolvimento de telas de login com foco na organização visual e experiência do usuário. | HTML, CSS e JavaScript |
+| 🐾 Projeto de ONG | Protótipo de interface para uma organização de proteção animal. | HTML, CSS e Javascript |
 
-*Os projetos acima são sugestões de organização do portfólio. Adicione os links dos repositórios correspondentes quando estiverem publicados.*
 
----
 
 ## `OBJETIVOS ATUAIS`
 
