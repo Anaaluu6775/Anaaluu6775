@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:09090f,50:21113b,100:8b5cf6&text=ANA%20LUÍSA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=DATA%20%2F%2F%20FRONT-END%20%2F%2F%20TECHNOLOGY&descAlignY=60&descSize=13&animation=fadeIn" alt="Banner futurista"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:09090f,50:21113b,100:8b5cf6&text=ANA%20LUISA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=DATA%20%2F%2F%20FRONT-END%20%2F%2F%20TECHNOLOGY&descAlignY=60&descSize=13&animation=fadeIn" alt="Banner futurista"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=BCA7FF&center=true&vCenter=true&width=650&lines=%3E+Inicializando+ambiente+de+desenvolvimento...;%3E+Explorando+o+universo+dos+dados;%3E+Construindo+interfaces+com+criatividade;%3E+Transformando+ideias+em+projetos;%3E+Aprendizado+cont%C3%ADnuo+%3A%3A+ON" alt="Animação de digitação"/>
 
