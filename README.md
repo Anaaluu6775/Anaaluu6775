@@ -22,7 +22,7 @@
 
 ---
 
-## `01 // SOBRE MIM`
+## `SOBRE MIM`
 
 <img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação"/>
 
@@ -44,7 +44,7 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 
 ---
 
-## `02 // STACK TECNOLÓGICA`
+## `STACK TECNOLÓGICA`
 
 <div align="center">
 
@@ -83,9 +83,7 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 
 ---
 
-## `03 // PROJETOS EM DESTAQUE`
-
-## `03 // PROJETOS EM DESTAQUE`
+## `PROJETOS EM DESTAQUE`
 
 <div align="center">
 
@@ -98,7 +96,7 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 
 </div>
 
-### `// SOBRE OS PROJETOS`
+### `SOBRE OS PROJETOS`
 
 - 📊 **Imersão Dados:** projeto voltado à exploração e análise de dados.
 - 📱 **Loja de Celulares:** projeto de Front-End com foco na criação de uma interface para uma loja de smartphones.
@@ -121,7 +119,7 @@ Gosto de entender como as coisas funcionam, transformar problemas em soluções 
 
 ---
 
-## `04 // OBJETIVOS ATUAIS`
+## `OBJETIVOS ATUAIS`
 
 ```bash
 ┌──[ ANA@GITHUB ]─[ ~/objetivos ]
